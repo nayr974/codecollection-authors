@@ -1,10 +1,16 @@
 # codecollection-authors
 [Public] RunWhen CodeCollection Authors
 
-This repo is for tracking collaborative opensource work across the community on codebundles & codecollections. Please check the Issues tab for code bundle requests.
+Welcome to our community! This is our entry point where we track community issues and provide documentation on how to contribute to our codecollections or start your own.
 
-To get started on authoring your own codebundles, see our [public docs](https://docs.runwhen.com/public/code-collection-development/getting-started-with-codecollection-development)
+## Communication
 
-This repo is not for version-controlling code, just managing codebundle work in the Issues tab.
+For communicating with us, feel free to join and reach out to us on our [public slack]() or join the [discussions](https://github.com/orgs/runwhen-contrib/discussions) here!
 
-Managed by terraform
+## Contributing
+
+We'd love to collaborate and have you be a part of our community. To get started head over to our [contributor](CONTRIBUTING.md) doc.
+
+## Codebundles
+
+One of the functions for this repo is to track the collaborative work on codebundles and codecollections across repositories in the community. Please check the [issues](https://github.com/runwhen-contrib/codecollection-authors/issues) tab for codebundle requests and codebundle [rewards](docs/rewards.md).
